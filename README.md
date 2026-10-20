@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi I am Álvaro José Garzón Martín👋
 <img width="740" height="416" alt="image" src="https://github.com/user-attachments/assets/8207d022-f97d-42fb-a614-c201b007d1b5" />
-
 <!--
 **ThunderMichi76/ThunderMichi76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
